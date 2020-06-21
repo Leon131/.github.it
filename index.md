@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+#### **程涛**
 
-You can use the [editor on GitHub](https://github.com/Leon131/.github.it/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+19857105136  （联系请加微信：ctwx688606）   chengtao_mcgill@163.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+求职：web前端实习生
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#### **个人信息**：
 
-# Header 1
-## Header 2
-### Header 3
+男/1995/25岁
 
-- Bulleted
-- List
+杭师大/软件工程/研二（2021年1月毕业）
 
-1. Numbered
-2. List
+技能：python、Java、css、html、sql、jquery等编程语言
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### **荣誉奖项：**
 
-### Jekyll Themes
+两项发明专利（专利号分别为：201910481321.0 / 201910911160.4）
+一项实用新型专利（专利号：201920832907.2）
+一项浙江省教育厅科研项目
+全国大学生物联网设计竞赛华东区 一等奖
+安徽省高校物联网应用创新大赛三等奖
+中国机器人ROBOCUP公开赛 优胜奖
+“TI”杯安徽省第十一届大学生电子设计竞赛 优胜奖
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Leon131/.github.it/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### **项目经历：**
+
+###### **全国大学生物联网设计竞赛华东区一等奖**
+
+项目内容：Kinect作为识别模块，使用到姿态识别和语音识别技术，然后转化成智能控制指令通过红外技术对家居实现控制，其中使用到Kinect、多种传感器、红外控制、姿态识别、语音识别技术
+
+负责内容：负责整个项目的进度把控、分拆整个项目与组员合作、与组委会对接各种事宜，其中技术部分负责处理Kinect的姿态识别和语音识别部分、各个传感器采集数据、红外发射和接受模块的控制指令的代码
+
+
+
+###### 基于汽车OBD和人体识别技术的智能防闷死预警系统
+
+项目内容：该项目为研究生期间申请到的一项浙江省教育厅科研项目，主要设计的是基于汽车OBD和人体识别技术的智能防闷死预警系统，当系统检测到汽车内有被困的儿童会自动的发出预警信息且及时告知车主，以此达到及时解救被困者的目的
+
+负责内容：该项目由个人构思，设计出技术方案，并且申请到该浙江省科研项目。现已制作出实物进行了实验验证，且完成科研项目结题
+
+成果：申请到一项发明专利和一项实用新型专利，完成科研项目结题
+
+
+
+###### 智慧养老项目
+
+该项目由硕士导师引进到实验室，由外来的项目经理带着五个学生集体完成。主体为基于Java开发的web项目，其中涉及了Java、css、html、sql、xml、jquery等知识，编程部分模块的前后端代码，达到前后端数据的有效交互，完成功能
+
